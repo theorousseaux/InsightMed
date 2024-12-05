@@ -1,0 +1,12 @@
+prompts
+"Is this article a review a research article or a clinical trial ?"
+"When was this article published ?"
+"On which specific disease or condition does this article focus, if any?"
+"Describe the use of the term "MET" in this article. What does it refer to ?"
+"In what context is MET analyzed in this article ?"
+"What are the biological mechanisms associated with MET discussed in this article?"
+"What treatments or protocols are mentioned in this article as having an effect related to MET? Hre you can respond with no length limit. For each treatment studied, mention the name of the treatment, a description, and a general sentiment about its efficacy."
+"Does the text highlight specific treatments as being more promising than others for targeting MET? If so which ones?"
+"What emerging treatments for MET are discussed in this article and what is the perception of their clinical potential?"
+"What sentiments are expressed in this article regarding the efficacy of treatments targeting MET?"
+"What is the overall conclusion based on the abstract of this article ?"
